@@ -77,7 +77,7 @@ Ensure your `input.json` file conforms to the following format:
       {
         "columns": [
           {"label": "PUBLIC"},
-          {"label": "UNKNOWN"}  // Expected to trigger a violation
+          {"label": "UNKNOWN"}
         ]
       },
       {
