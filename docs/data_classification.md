@@ -9,8 +9,8 @@ This document explains how to use the data classification policies implemented i
 
 #### Files
 
-- **Policy File**: `classification.rego` - Contains the rules for validating table column labels.
-- **Input Data File**: `input.json` (located in the `data` directory) - Sample input data for testing the policies.
+- **Policy File**: [`classification.rego`](https://github.com/farmanp/data-platform-opa-poc/blob/main/policies/data_classification/classification.rego) - Contains the rules for validating table column labels.
+- **Input Data File**: [`input.json`](https://github.com/farmanp/data-platform-opa-poc/blob/main/data/input.json) (located in the `data` directory) - Sample input data for testing the policies.
 
 #### Setup Policy in OPA
 
