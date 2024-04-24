@@ -1,0 +1,17 @@
+{
+  "input": {
+    "tables": [
+      {
+        "columns": [
+          {"label": "PUBLIC"},
+          {"label": ""}
+        ]
+      },
+      {
+        "columns": [
+          {"label": "SENSITIVE"}
+        ]
+      }
+    ]
+  }
+}
